@@ -16,7 +16,7 @@ Certifique-se de ter as seguintes ferramentas instaladas em sua máquina antes d
 
 ## Executando o Aplicativo
 
-1. Clone este repositório em sua máquina local:
+1. Clone este repositório em sua máquina local
 
 2. Abra o projeto no Android Studio.
 
