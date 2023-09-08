@@ -18,10 +18,6 @@ Certifique-se de ter as seguintes ferramentas instaladas em sua máquina antes d
 
 1. Clone este repositório em sua máquina local:
 
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-```
-
 2. Abra o projeto no Android Studio.
 
 3. Execute o aplicativo em um emulador Android ou dispositivo físico.
